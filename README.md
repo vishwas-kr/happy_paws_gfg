@@ -28,6 +28,8 @@ Happy_paws is a pet care app that aims to make pet care accessible, convenient, 
 - Firebase Google Auth
 
 - Google Map
+
+- AMD
  
 # Prerequisites
 
